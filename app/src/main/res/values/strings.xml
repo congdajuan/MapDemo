@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EDoctor</string>
+    <string name="login_user">用户名</string>
+    <string name="login_password">密码</string>
+    <string name="login_btn_button">登录</string>
+    <string name="login_forgetpwd">忘记密码？</string>
+    <string name="login_register">新用户注册</string>
+    <string name="Register_register">注册</string>
+    <string name="Register_rewrite">再输入一次密码</string>
+    <string name="Register_phone">手机号</string>
+    <string name="Register_valid">获取验证码</string>
+    <string name="Register_validation">验证码</string>
+    <string name="doctor_name">张瑞军</string>
+    <string name="Main_Chongqing">重庆</string>
+    <string name="Main_search">搜医院、医生、病症</string>
+    <string name="Main_headline">听说绿豆能解中药，是真的吗？</string>
+    <string name="Main_reservation">挂号预约</string>>
+</resources>
